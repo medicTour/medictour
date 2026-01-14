@@ -1,1 +1,0 @@
-// Reusable landing page sections
